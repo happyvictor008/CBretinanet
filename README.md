@@ -1,4 +1,4 @@
-# CBretinanet
+# CB-retinanet
 Class balancved retinanet with Visdrone dataset. Followed by[Keras-retinanet](https://github.com/fizyr/keras-retinanet.git), we change the focal loss to class-balanced focal loss(https://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf) under retinanet and add VisDrone-2019 dataset as one of the trainingsets.
 
 ## Installation
